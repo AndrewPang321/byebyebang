@@ -137,6 +137,14 @@ export const messages = [
     profileImg: "./xfers.png",
   },
   {
+    title: "bai bai and all the best",
+    name: "N0Ch1ll",
+    msg:
+      "thank you for making Carousell memorable and enjoyable, i will surely miss the atmosphere you've created. Carousell is not the same without you",
+    rel: "Your noob viet bro",
+    coverImg: "./n0ch1ll.jpg",
+    profileImg: "./p.jpeg",
+  },
     title: "WILL MISS HEARING YOUR VOICE FROM XXX KM AWAY",
     name: "Yijun",
     msg: "BUH BYE.",
