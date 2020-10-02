@@ -119,4 +119,12 @@ export const messages = [
     coverImg: "./yaocover.jpg",
     profileImg: "./yaoprofile.jpg",
   },
+  {
+    title: "My torrent navigator",
+    name: "Huiyi",
+    msg:  "thx for everything bui - hope u will go back and set up your convenience store then i can go and visit. miss working with u but change is the only constant. if u believe in it enough, u can do it!",
+    rel: "Your favourite PM",
+    coverImg: "./seo.png",
+    profileImg: "./xfers.png",
+  },
 ];
