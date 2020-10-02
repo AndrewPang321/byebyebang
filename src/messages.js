@@ -9,6 +9,14 @@ export const messages = [
   //   profileImg: "./johnprofile.jpg",
   // },
   {
+    coverImg: "./nicetry.jpg",
+    title: "",
+    msg:
+      "Bro, you had a good run. Looking forward to more shit talking. Onward, upward!",
+    name: "SY",
+    profileImg: "./rem.png",
+  },
+  {
     coverImg: "./dylancover.jpeg",
     title: "Bye bye Master Imouto",
     msg:
@@ -105,8 +113,7 @@ export const messages = [
   },
   {
     title: "Bye Bye Master Bui",
-    msg:
-      "Yo mah bro. Sayonara and all the best.",
+    msg: "Yo mah bro. Sayonara and all the best.",
     name: "Edward Samuel",
     coverImg: "./edwardcp.jpg",
     profileImg: "./edwardpp.jpg",
@@ -114,7 +121,8 @@ export const messages = [
   {
     title: "A haiku for Imouto",
     name: "Yamato",
-    msg:  "At the break of dawn - A man dozes on his horse - Warmth finds their faces",
+    msg:
+      "At the break of dawn - A man dozes on his horse - Warmth finds their faces",
     rel: "Ghost",
     coverImg: "./yaocover.jpg",
     profileImg: "./yaoprofile.jpg",
@@ -122,7 +130,8 @@ export const messages = [
   {
     title: "My torrent navigator",
     name: "Huiyi",
-    msg:  "thx for everything bui - hope u will go back and set up your convenience store then i can go and visit. miss working with u but change is the only constant. if u believe in it enough, u can do it!",
+    msg:
+      "thx for everything bui - hope u will go back and set up your convenience store then i can go and visit. miss working with u but change is the only constant. if u believe in it enough, u can do it!",
     rel: "Your favourite PM",
     coverImg: "./seo.jpeg",
     profileImg: "./xfers.png",
