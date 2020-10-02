@@ -145,4 +145,27 @@ export const messages = [
     coverImg: "./n0ch1ll.jpg",
     profileImg: "./p.jpeg",
   },
+    title: "WILL MISS HEARING YOUR VOICE FROM XXX KM AWAY",
+    name: "Yijun",
+    msg: "BUH BYE.",
+    rel: "Your fave DA",
+    coverImg: "./yijuncover.jpg",
+    profileImg: "./yijunprofile.jpg",
+  },
+  {
+    title: "All the best fellow vnese bro!",
+    name: "Kim",
+    msg:
+      "I thought bangbui is forever...turn out it’s not true lol. Joking all the berry best in your next journey wherever it is!!",
+    rel: "Your fellow vnese sis",
+    coverImg: "./kimcover.jpg",
+    profileImg: "./kimprofile.jpg",
+  },
+  {
+    title: "Hello",
+    name: "dog",
+    msg: "dis is dog",
+    rel: "dog",
+    coverImg: "disisdog.gif",
+  },
 ];
