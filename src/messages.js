@@ -145,6 +145,7 @@ export const messages = [
     coverImg: "./n0ch1ll.jpg",
     profileImg: "./p.jpeg",
   },
+  {
     title: "WILL MISS HEARING YOUR VOICE FROM XXX KM AWAY",
     name: "Yijun",
     msg: "BUH BYE.",
