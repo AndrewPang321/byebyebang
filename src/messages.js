@@ -153,4 +153,11 @@ export const messages = [
     coverImg: "./kimcover.jpg",
     profileImg: "./kimprofile.jpg",
   },
+  {
+    title: "Hello",
+    name: "dog",
+    msg: "dis is dog",
+    rel: "dog",
+    coverImg: "disisdog.gif",
+  },
 ];
