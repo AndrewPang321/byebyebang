@@ -1,6 +1,6 @@
 # byebyebang
 
-https://baibaibui.netlify.app/
+https://baibaibang.netlify.app/
 
 ## Add your farewell message to Bui:
 1. Add your message to `src/messages.js`
