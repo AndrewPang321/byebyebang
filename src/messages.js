@@ -11,7 +11,7 @@ export const messages = [
   {
     title: "Goodbye master Bang",
     msg:
-      "Thought you are an one-club man, you failed me. Okay, thanks for all the contributions to web team during this 5 years and all the things you teach me. All the best in your next adventure. I'll try dota and we can play tgt one day :P",
+      "Thought you were an one-club man, you failed me. Okay, thanks for all the contributions to web team during this 5 years and all the things you teach me. All the best in your next adventure. I'll try dota and we can play tgt one day :P",
     rel: "Imposter",
     name: "Andrew",
     coverImg: "./andrewcover.jpg",
