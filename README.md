@@ -1,4 +1,4 @@
-# byebyebui
+# byebyebang
 
 https://baibaibui.netlify.app/
 
