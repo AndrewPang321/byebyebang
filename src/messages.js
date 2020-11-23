@@ -9,12 +9,12 @@ export const messages = [
   //   profileImg: "./johnprofile.jpg",
   // },
   {
-    title: "Ciao Ciao Master Bui",
+    title: "Goodbye master Bang",
     msg:
-      "It's an honor working with you closely in the vertical homescreen. Thanks for allowing me to steal your knowledge while we were working together. All the best man and give me some vouchers",
+      "Thought you are an one-club man, you failed me. Okay, thanks for all the contributions to web team during this 5 years and all the things you teach me. All the best in your next adventure. I'll try dota and we can play tgt one day :P",
     rel: "Imposter",
     name: "Andrew",
-    coverImg: "./andrewcover.png",
+    coverImg: "./andrewcover.jpg",
     profileImg: "./andrewprofile.jpg",
   },
 ];

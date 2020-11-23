@@ -14,13 +14,12 @@ export default function LeftContent() {
             fontSize: "18px",
           }}
         >
-          <div style={{ fontSize: "14px", fontWeight: 500 }}>My Groups (6)</div>
+          <div style={{ fontSize: "14px", fontWeight: 500 }}>My Groups (4)</div>
         </div>
-        <Row title="NTR" lastUpdated="2 months ago" />
-        <Row title="Ugly bastard" lastUpdated="3 years ago" />
+        <Row title="Woobbee" lastUpdated="2 months ago" />
+        <Row title="LCP" lastUpdated="3 years ago" />
         <Row title="Dota Pos 0" lastUpdated="1 years ago" />
-        <Row title="Farmer girls inside" lastUpdated="1 months ago" />
-        <Row title="Dropshipping Enthusiast" lastUpdated="2 weeks ago" />
+        <Row title="Don't pick techies pls" lastUpdated="2 weeks ago" />
         <br />
         <div className="leftLink">Discover groups</div>
         <div className="leftLink">Join your school groups</div>
