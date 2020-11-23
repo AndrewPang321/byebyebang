@@ -3,7 +3,7 @@ import "./Navbar.css";
 
 export default function Navbar(props) {
   const onClick = () => {
-    window.open("https://www.dotabuff.com/players/189614361/records");
+    window.open("https://www.carousell.sg/banghui/");
   };
   return (
     <div onClick={onClick} className="navbar">
