@@ -19,7 +19,7 @@ export const messages = [
   },
   {
     title: "See you again Bang",
-    msg: "I remember when you first interviewed my for Carousell man, thanks for saying yes to my application. From that point on it sparked an adventure and I got to know Carousell and you and the rest of the web team. Thanks for not doubting me and thank you for all the help that you have given me throuhg the years, wish you nothing but the best.",
+    msg: "I remember when you first interviewed me for Carousell man, thanks for saying yes to my application. From that point on it sparked an adventure and I got to know Carousell, rest of the web team and you. Thanks for not doubting me and thank you for all the help that you have given me throughout the years, wish you nothing but the best.",
     rel: "yoyoyo",
     name: "Aaron",
     coverImg: "./aaronlamcover.jpg",
