@@ -19,10 +19,20 @@ export const messages = [
   },
   {
     title: "See you again Bang",
-    msg: "I remember when you first interviewed me for Carousell man, thanks for saying yes to my application. From that point on it sparked an adventure and I got to know Carousell, rest of the web team and you. Thanks for not doubting me and thank you for all the help that you have given me throughout the years, wish you nothing but the best.",
+    msg:
+      "I remember when you first interviewed me for Carousell man, thanks for saying yes to my application. From that point on it sparked an adventure and I got to know Carousell, rest of the web team and you. Thanks for not doubting me and thank you for all the help that you have given me throughout the years, wish you nothing but the best.",
     rel: "yoyoyo",
     name: "Aaron",
     coverImg: "./aaronlamcover.jpg",
     profileImg: "./aaronlam.jpeg",
-  }
+  },
+  {
+    title: "Kids Can Code 2",
+    msg:
+      "Bruh I lost count of the number of times you spoke about leaving. Anyway that day's finally here and I'm excited for you! You have plenty of memories to look back on like your wedding in Bangkok, HDL gatherings, and web memory leaks. The next time we see each other it'll be over more hotpot hehehe. Talk soon!",
+    rel: "wat",
+    name: "Yamato",
+    coverImg: "./yaocover.jpg",
+    profileImg: "./yaoprofile.jpg",
+  },
 ];
