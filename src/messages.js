@@ -35,4 +35,13 @@ export const messages = [
     coverImg: "./yaocover.jpg",
     profileImg: "./yaoprofile.jpg",
   },
+  {
+    title: "End Of An Era",
+    coverImg: "./dylancover.png",
+    msg:
+      "Leave me as the last one I guess. No one will be able to replace you. I'll fondly miss the days when we sat together in the office. Till our next adventure. See you space cowboy.",
+    name: "GreenManGaming",
+    profileImg: "./dylanprofile.jpg",
+    rel: "Rhasta Cosplayer",
+  },
 ];
