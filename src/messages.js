@@ -44,4 +44,12 @@ export const messages = [
     profileImg: "./dylanprofile.jpg",
     rel: "Rhasta Cosplayer",
   },
+  {
+    title: "Come to Taiwan!",
+    name: "Jenny",
+    msg:
+      "Thank you for always being so responsive when I encounter any web issue. You saved my life so many times. I’ll miss the chat we had when I sit by you during my Carousell 101 two years ago. So sad that was my last time seeing and talking to you in person. 😢 Do let us know when you travel to Taiwan!",
+    coverImg: "./jennycover.jpg",
+    profileImg: "./jennyprofile.jpg",
+  },
 ];
