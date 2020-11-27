@@ -45,6 +45,14 @@ export const messages = [
     rel: "Rhasta Cosplayer",
   },
   {
+    title: "I guess Bang is not the same without Bui :(",
+    coverImg: "./davecover.png",
+    msg: "The time has finally come, 2nd iOS engineer bidding farewell to 2nd web engineer :( It's been many good years fighiting along side you comrade. Thanks for all the hardwork and laughters over the years, you certainly one of the funniest guy I've worked with! Cover photo is of the Carousell Engineering OGs (Chloe is behind the camera) and there are only 2 of us left, what is this sadness in my heart :O!! Anway have fun and all the best at shopee pi pi pi pi pi",
+    name: "Dave the first",
+    profileImg: "./daveprofile.jpg",
+    rel: "just now",
+  },
+  {
     title: "Come to Taiwan!",
     name: "Jenny",
     msg:
