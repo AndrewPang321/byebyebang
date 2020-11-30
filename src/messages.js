@@ -60,4 +60,11 @@ export const messages = [
     coverImg: "./jennycover.jpg",
     profileImg: "./jennyprofile.jpg",
   },
+  {
+    title: "Ciao master Bang!!!",
+    name: "Ayao",
+    msg: "Thanks for helping me for the web issues in these days. And thank for the buddy treat in the Carousell 101, you also introduce some good place for me to travel around. It’s sad that you are going to leave. Hope you have a better journey then. Vist us in TW if you have free time.",
+    coverImg: "./ayaocover.jpg",
+    profileImg: "./ayaoprofile.jpg",
+  },
 ];
