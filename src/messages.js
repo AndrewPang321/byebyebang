@@ -67,4 +67,11 @@ export const messages = [
     coverImg: "./ayaocover.jpg",
     profileImg: "./ayaoprofile.jpg",
   },
+  {
+    title: "Bang Bang Bang",
+    name: "Lemon T",
+    msg: "Hi Bang,I’m very sad when hearing that you would leave Carousell.You have stayed here to for too long already… But still very upset to see more and more web friends left Carousell. Yay, I wish that you can find cool friends like us at the new place (I’m not sure it’s easy). Stay happy!",
+    coverImg: "./bang.jpg",
+    profileImg: "./Trong-Avatar-Toon.jpg",
+  },
 ];
